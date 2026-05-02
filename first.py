@@ -1,0 +1,9 @@
+s="shridevi"
+print(s[0])
+print(s[0:5])
+print(s[-1])
+print(s[7])
+print(s[0:4])
+print(s[4:])
+print(s[::-1])
+print(s[1:5:1])

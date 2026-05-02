@@ -1,0 +1,5 @@
+python ia a high level language
+it is easy to debug
+it having simple syntax
+python is having a interpreter
+it is a object oriented program
